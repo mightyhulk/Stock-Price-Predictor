@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://img.icons8.com/color/96/000000/stock-market.png" width="80" alt="Stock Price Predictor Logo"/>
+    <img src="stock.png" width="80" alt="Stock Price Predictor Logo"/>
 </p>
 
 # 📈 Stock Price Predictor
