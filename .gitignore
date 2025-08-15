@@ -1,0 +1,11 @@
+flaskenv
+frontend/node_modules
+backend/env
+backend/.venv
+backend/extra
+backend/graphs
+backend/.vscode
+backend/csvfiles
+backend/model
+backend/tokenizer
+*.zip
