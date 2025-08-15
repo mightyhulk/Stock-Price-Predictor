@@ -54,14 +54,13 @@ python server.py
 
 ---
 
-## 📸 Screenshots
+<!-- ## 📸 Screenshots
 
 <!-- Add screenshots here -->
-<p align="center">
+<!-- <p align="center">
     <img src="https://via.placeholder.com/600x300?text=Dashboard+Screenshot" width="70%"/>
-</p>
+</p> -->
 
----
 
 ## 🤝 Contributing
 
